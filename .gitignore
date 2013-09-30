@@ -1,0 +1,8 @@
+dev/
+dev/*
+smarty/templates_c/
+smarty/templates_c/*
+smarty/cache/
+smarty/cache/*
+www/data/
+www/data/*
