@@ -3,7 +3,7 @@
 {block name=title}Otevřené volby{/block}
 
 {block name=header}
-  <h1 class="jqm-logo"><img src="http://view.jquerymobile.com/1.3.2/dist/demos/_assets/img/jquery-logo.png" alt="Otevřené volby"></h1>
+  <h1 class="jqm-logo"><a href="/"><img src="images/logo.png" alt="Otevřené volby" title="Otevřené volby" /></a></h1>
 {/block}
 
 {block name=content}
