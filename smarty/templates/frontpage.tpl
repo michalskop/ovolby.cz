@@ -8,9 +8,9 @@
 
 {block name=content}
   <div class="jqm-home-welcome">
-		<h2>Data a analýzy ke všem volbám</h2>
+		<h2>Data a analýzy k volbám</h2>
 		<p class="jqm-intro">Data ve strojově čitelném formátu pro všechny volby v ČR</p>
-		<p class="jqm-intro"><small>Máme je všecky.</small></p>
+		<p class="jqm-intro"><small>1.3 GB dat. Přehledně, strukturovaně, zdarma.</small></p>
   </div> <!-- jqm-home-welcome -->
   
   <ul data-role="listview" data-inset="true" data-theme="d" data-icon="false" data-filter-placeholder="Search..." class="jqm-list jqm-home-list">
