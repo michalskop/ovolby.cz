@@ -11,6 +11,7 @@ $elections = array(
   'fs-sl' => array('name' => 'Federální shromáždění - Sněmovna lidu', 'year' => array(1990,1992)),
   'fs-sn' => array('name' => 'Federální shromáždění - Sněmovna národů', 'year' => array(1990,1992)),
   'cnr' => array('name' => 'Česká národní rada', 'year' => array(1990,1992)),
+  'vuc' => array('name' => 'Samosprávné kraje (VÚC), Slovensko', 'year' => array(2013)),
 );
 
 ?>
