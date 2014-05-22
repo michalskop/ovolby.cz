@@ -3,7 +3,7 @@
 {block name=title}Otevřené volby{/block}
 
 {block name=header}
-  <h1 class="jqm-logo"><a href="/"><img src="images/logo.png" alt="Otevřené volby" title="Otevřené volby" /></a></h1>
+  <h1 class="jqm-logo"><a href="/"><img src="/images/logo.png" alt="Otevřené volby" title="Otevřené volby" /></a></h1>
 {/block}
 
 {block name=content}
@@ -24,6 +24,10 @@
   
   {/foreach}
   </ul>
+
+<p>
+  <a class="warning" href="/cesky-excel">Jak otevřít data v českém Excelu?</a>
+</p>
 
 {/block}
 

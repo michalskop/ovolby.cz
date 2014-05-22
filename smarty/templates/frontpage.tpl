@@ -26,6 +26,11 @@
   </ul>
 {/block}
 
+<p>
+  <a class="warning" href="/cesky-excel">Jak otevřít data v českém Excelu?</a>
+</p>
+
+
 {block name=footer}
  {include file="footer.tpl"}
 {/block}

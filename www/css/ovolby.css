@@ -1,0 +1,10 @@
+.warning {
+    background-color: #FDF7F7;
+    border: 1px solid #D9534F;
+    float: left;
+    padding: 1.5em;
+}
+
+a.warning.ui-link{
+  color: #D9534F;
+}

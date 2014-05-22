@@ -11,6 +11,7 @@
 	<!--<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />-->
 	<link rel="stylesheet" href="http://view.jquerymobile.com/1.3.2/dist/demos/css/themes/default/jquery.mobile.min.css"/>
 	<link rel="stylesheet" href="http://view.jquerymobile.com/1.3.2/dist/demos/_assets/css/jqm-demos.css" />
+	<link rel="stylesheet" href="css/ovolby.css" />
 	{block name=head}{/block}
 </head>
 <body>
