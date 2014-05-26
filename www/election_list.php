@@ -2,7 +2,7 @@
 //list of elections
 
 $elections = array(
-  'ep' => array('name' => 'Evropský parlament', 'year' => array(2004,2009)),
+  'ep' => array('name' => 'Evropský parlament', 'year' => array(2004,2009,2014)),
   'president' => array('name' => 'Prezident ČR', 'year' => array(2013)),
   'psp' => array('name' => 'Poslanecká sněmovna', 'year' => array(1996,1998,2002,2006,2010,2013)),
   'senat' => array('name' => 'Senát', 'year' => array('1996-2013',2014)),
