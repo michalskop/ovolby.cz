@@ -26,7 +26,7 @@
   </ul>
 
 <p>
-  <a class="warning" href="/cesky-excel">Jak otevřít data v českém Excelu?</a>
+  <a class="warning" href="/cesky-excel.php">Jak otevřít data v českém Excelu?</a>
 </p>
 
 {/block}
