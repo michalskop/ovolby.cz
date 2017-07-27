@@ -6,12 +6,12 @@
 	<title>{block name=title}{/block}</title>
 	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="./images/favicon.ico" type="image/x-icon">
-    <script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
-	<script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
+    <script src="/css/jquery-1.8.1.min.js"></script>
+	<script src="/css/jquery.mobile-1.3.2.min.js"></script>
 	<!--<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css" />-->
-	<link rel="stylesheet" href="http://view.jquerymobile.com/1.3.2/dist/demos/css/themes/default/jquery.mobile.min.css"/>
-	<link rel="stylesheet" href="http://view.jquerymobile.com/1.3.2/dist/demos/_assets/css/jqm-demos.css" />
-	<link rel="stylesheet" href="css/ovolby.css" />
+	<link rel="stylesheet" href="/css/jquery.mobile.min.css"/>
+	<link rel="stylesheet" href="/css/jqm-demos.css" />
+	<link rel="stylesheet" href="/css/ovolby.css" />
 	{block name=head}{/block}
 </head>
 <body>
